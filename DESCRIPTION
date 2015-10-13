@@ -1,8 +1,8 @@
 Package: whatevr
 Title: Whatevr
 Version: 0.0.0.9000
-Authors@R: c(
-  person("Esteban", "Buz", email = "esteban.buz@gmail.com", role = c("aut", "cre"))
+Authors@R: person("Esteban", "Buz", email = "esteban.buz@gmail.com",
+                  role = c("aut", "cre"))
 Description: Whatevr, any value will work.
 Depends: R (>= 3.0.0)
 License: MIT + file LICENSE
